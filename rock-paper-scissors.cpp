@@ -193,7 +193,7 @@ void ShowFinalGameRuslt(stGameResults GameRuslts)
      cout<<Tabs(2) <<"Player1 Won Times: "<<GameRuslts.Player1WinTimes<<"\n";
      cout<<Tabs(2) <<"Computer Won Times: "<<GameRuslts.ComputerWinTimes<<"\n";
      cout<<Tabs(2) <<"Draw Timer: "<<GameRuslts.DrawTimes<<"\n";
-     cout<<Tabs(2) <<"Final Winner: "<<GameRuslts.GameWinner<endl;
+     cout<<Tabs(2) <<"Final Winner: "<<GameRuslts.GameWinner<<endl;
      cout<<Tabs(2) <<"===========================================================\n\n";
      SetWinnerScreenColor(GameRuslts.GameWinner);	
 }
