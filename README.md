@@ -22,7 +22,6 @@ A simple console-based Rock, Paper, Scissors game built with C++.
 
 - C++
 - Console Application
-- Visual Studio 
 
 --- 
 
